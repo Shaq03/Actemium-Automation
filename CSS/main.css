@@ -1,0 +1,43 @@
+.Header{
+    border: solid white 3px;
+    height: 100px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    color: white;
+    border-left: none;
+    border-right: none;
+    font-size: 25px;
+    padding-bottom: 20px;
+    padding-top: 0%;
+}
+.Container{
+    background-color: black;
+    opacity: 70%;
+    border: solid white 4px;
+    color: white;
+    width: 90%;
+    height: 750px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}
+#Uname,#username,#Pword,#password,#submit,#Caccount,
+#Eaddress,#address,#Fname,#firstname,#Lname,#lastname,
+#EmpID,#employee,#Tnumber,#tnumber,#Projnumber,#projnumber,#Assign{
+    font-size: 30px;
+    margin: 20px;
+}
+#submit, #Caccount{
+    padding: 10px 20px; 
+}
+
+#tnumber{
+    font-size: 30px;
+    padding: 10px 20px;
+    margin-top: 175px;
+    width: 15%;
+    text-align: center;
+        
+}
+
